@@ -1,0 +1,19 @@
+The decrease in inhale should be at least 10 seconds to identify as (apne hi-apne). The Oxygen saturation should decrease too.
+AHI (Apnea and Hy-Apnea index) is too important. In Rem sleep the count of 
+apne and hi-apne goes up. beefore the half of sleep, the N1s are shorter.
+The sleep level should only goes from Nx to Rem level always. Sleep latency is the time between the light off and N1 or Nx.
+Rem latency, the time between first sleep to REm level.
+Total sleep time (TST) is not Time in bed (TB). Sleep efficiency is too imprtatnt and it has a formula. 
+This should be more than 85-90 percent.
+What is arosal?
+At least 20 persent should be delta to  be N3 level.
+Oxygen Desaturation Index (ODI) is important
+First Rem experienc should be at 90 min and not too early.
+above 5 the quality of the sleep is not good (Subjective)
+steps of doctor:
+1-each 30 second labeling
+2-arosalchecking in 30 sec
+3-inhale and exhale (where he sleeped does he has apnea and hy-apnea)
+4-arithmic 
+and report generated autoaticlly.
+count sleep cycles.
